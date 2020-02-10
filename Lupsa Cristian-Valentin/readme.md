@@ -1,5 +1,6 @@
 Proiectul ales este o galerie foto. Se adauga imaginile (din memorie sau accesand camera si capturand o fotografie) intr-o baza de date iar apoi sunt afisare in partea de jos a paginii in stilul unei galerii. Am folosit si un worker care afiseaza data si ora curenta.
 <br>
+<br>
 Nume proiect:Aplicatie mobila web - The Gallery
 <br/>
 Autor: Lupsa Cristian
